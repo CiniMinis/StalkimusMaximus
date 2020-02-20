@@ -1,0 +1,6 @@
+{
+    "chromedriver_path": "chromedriver.exe",
+    "contact_name": "CONTACT NAME",
+    "logging_enabled": false,
+    "log_filepath": "stalkimus_maximus_log.txt"
+}
